@@ -8,6 +8,7 @@ body {
 header {
     display: flex;
     align-items: center;
+    justify-content: center; 
     padding: 20px;
     background-color: #FFFDE4;
     letter-spacing: 1px;
